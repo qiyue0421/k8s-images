@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.6.2
